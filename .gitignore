@@ -1,0 +1,11 @@
+# Pengaturan lokal Claude Code
+.claude/
+
+# File sistem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/

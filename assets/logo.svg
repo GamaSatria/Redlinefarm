@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="RedLine Farm">
+  <!-- LOGO SEMENTARA: ganti file ini dengan logo final RedLine Farm -->
+  <rect width="48" height="48" rx="12" fill="#C8102E"/>
+  <path d="M11 30v-5.5a5.5 5.5 0 0 1 8.6-4.6 6.2 6.2 0 0 1 10.6-1.2 5.6 5.6 0 0 1 6.8 5.4V30z" fill="#fff"/>
+  <rect x="9" y="33.5" width="30" height="3.2" rx="1.6" fill="#fff"/>
+</svg>
