@@ -6,10 +6,10 @@ const CONFIG = {
   whatsapp: "6281234567890",
   // Link akun sosial media
   social: {
-    youtube:   "https://www.youtube.com/@redlinefarm",
-    tiktok:    "https://www.tiktok.com/@redlinefarm",
-    instagram: "https://www.instagram.com/redlinefarm",
-    facebook:  "https://www.facebook.com/redlinefarm",
+    youtube:   "https://youtube.com/@redlinefarm",
+    tiktok:    "https://www.tiktok.com/@redline.farm",
+    instagram: "https://www.instagram.com/redline.farm",
+    facebook:  "https://www.facebook.com/profile.php?id=61596190953699",
   },
 };
 
